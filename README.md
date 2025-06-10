@@ -16,6 +16,5 @@ Este proyecto presenta el diseño completo de interfaces de usuario para una apl
 - **[Prototipo Móvil](https://www.figma.com/proto/BT5rwXGzcTNyv1cKjl7Ygc/StayOn-TFG?t=ZqZMVV1ElIkDZKui-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=34-20&starting-point-node-id=34%3A20)** - Experiencia optimizada para smartphones
 - **[Prototipo Web](https://www.figma.com/proto/BT5rwXGzcTNyv1cKjl7Ygc/StayOn-TFG?node-id=132-1132&p=f&t=ZqZMVV1ElIkDZKui-0&scaling=scale-down&content-scaling=fixed&page-id=124%3A97&starting-point-node-id=132%3A1132)** - Experiencia optimizada para navegadores
 
-### Características:
 
 *Desarrollado como parte del trabajo de fin de grado del curso de Desarrollo de Interfaces*
