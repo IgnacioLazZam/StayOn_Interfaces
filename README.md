@@ -1,7 +1,7 @@
 # 📱💻 Proyecto de Desarrollo de Interfaces
 
 ## 📋 Descripción del Proyecto
-Este proyecto presenta el diseño completo de interfaces de usuario para una aplicación multiplataforma, desarrollado en Figma. Incluye versiones optimizadas tanto para dispositivos móviles como para navegadores web, siguiendo principios de diseño responsive y mejores prácticas de UX/UI.
+Este proyecto presenta el diseño completo de interfaces de usuario para una aplicación multiplataforma, desarrollado en Figma, Balsamiq y PowerBi. Incluye versiones optimizadas tanto para dispositivos móviles como para navegadores web, siguiendo principios de diseño responsive y mejores prácticas de UX/UI.
 
 ## 🎯 Objetivos
 
@@ -10,11 +10,13 @@ Este proyecto presenta el diseño completo de interfaces de usuario para una apl
 - Optimizar la usabilidad para diferentes dispositivos
 - Aplicar principios de accesibilidad y diseño inclusivo
 
-## 🔗 Enlaces del Proyecto
+## 🔗 Enlaces del Proyecto (Figma)
 
 ### 📱 Prototipos Interactivos
 - **[Prototipo Móvil](https://www.figma.com/proto/BT5rwXGzcTNyv1cKjl7Ygc/StayOn-TFG?t=ZqZMVV1ElIkDZKui-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=34-20&starting-point-node-id=34%3A20)** - Experiencia optimizada para smartphones
 - **[Prototipo Web](https://www.figma.com/proto/BT5rwXGzcTNyv1cKjl7Ygc/StayOn-TFG?node-id=132-1132&p=f&t=ZqZMVV1ElIkDZKui-0&scaling=scale-down&content-scaling=fixed&page-id=124%3A97&starting-point-node-id=132%3A1132)** - Experiencia optimizada para navegadores
 
+> 📝 *Nota: Para poder visuallizar el informe de PowerBi deberás de asegurarte de tener la siguiente versión del programa: 2.143.878.0*
 
 *Desarrollado como parte del trabajo de fin de grado del curso de Desarrollo de Interfaces*
+
